@@ -32,6 +32,3 @@ Este proyecto contiene un script en Python que realiza el procesamiento de una i
 
 Siéntete libre de realizar mejoras en el código o agregar nuevas características. Cualquier contribución es bienvenida. Solo asegúrate de seguir las directrices de contribución y crear una solicitud de extracción (pull request).
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
